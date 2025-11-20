@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/apple-app-site-association",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "dest": "/apple-app-site-association"
+    }
+  ]
+}
+
