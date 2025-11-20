@@ -5,11 +5,7 @@
       {
         "appID": "com.digitattva.mynewproject",
         "paths": [
-          "/",
-          "/home",
-          "/product/*",
-          "/tasks/*",
-          "/auth/reset/*"
+         "*"
         ]
       }
     ]
